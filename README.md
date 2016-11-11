@@ -7,6 +7,7 @@ A partial implementation of our 2016 Stronghold robot.
 * highshooter
 * lowshot
 * drivetrain
+* joystick and gamepad control
 
 ### What's missing:
 * climber
